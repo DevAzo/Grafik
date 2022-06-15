@@ -5,6 +5,9 @@ using System.Windows.Forms;
 
 namespace Grafik
 {
+    /// <summary>
+    /// Hauptklasse
+    /// </summary>
     public partial class MainDlg : Form
     {
         private int diagramWidth = 500;
